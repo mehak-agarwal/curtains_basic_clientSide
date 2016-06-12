@@ -1,0 +1,84 @@
+
+<!DOCTYPE html>
+<html ng-app="curtainsOnline" lang="en">
+
+  <head>
+    <script data-require="angular.js@1.4.x" src="https://code.angularjs.org/1.4.0-rc.2/angular.js" data-semver="1.4.0-rc.2">
+    </script>
+    <script data-require="angular-route@*" data-semver="1.4.8" src="https://code.angularjs.org/1.4.8/angular-route.js">
+    </script>
+    <script data-require="checklist-model.js@*" data-semver="0.0.1" src="http://vitalets.github.io/checklist-model/checklist-model.js">
+    </script>
+    <script src="http://code.jquery.com/jquery.min.js"></script>
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
+    <script src="app.js"></script>
+    <script src="MainController.js"></script>
+    <script src="api.js"></script>
+    <script src="dropdowns-enhancements.js"></script>
+
+    <link href="style.css" rel="stylesheet">
+    <link href="cover.css" rel="stylesheet">
+    <link href="dropdowns-enhancements.css">
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+
+  </head>
+
+
+
+  <body>
+  <div class="site-wrapper">
+
+        <div class="site-wrapper-inner">
+
+          <div class="cover-container">
+            <div class="masthead clearfix">
+            <div class="inner" ng-hide="hideit">
+              <h3 class="masthead-brand">CustomFurnish</h3>
+             
+                  Home
+                 Features
+                 Contact
+            </div>
+          </div>
+
+
+          
+
+          
+
+          <div class="inner cover" ng-hide="hideit">
+            <h1 class="cover-heading">CUSTOMIZED CURTAINS</a></h1>
+            <p class="para">
+              
+                Premium curtains at unbearable prices</p>
+          </div>
+          <div class"button" ng-hide="hideit">
+            <p class="lead">
+              <a href="#/main" ng-model="myVar" class="btn btn-lg btn-default">Customize and Buy</a>
+            </p>
+          </div>
+        </div>
+         <div class="mastfoot">
+            <div class="inner">
+              <p>                                                                                                                          Copyrights © 
+<a href="http://customfurnish.com">customfurnish.com</a>, All Rights Reserved</p>
+            </div>
+          </div>
+        <div>
+  </div>
+
+
+    <div ng-view></div>
+   
+  </body>
+
+  
+</html>
+
+
+

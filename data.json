@@ -1,0 +1,423 @@
+ {
+ "pageRange": 110,
+  "prevPage": null,
+  "limit": "20",
+  "totalPages": 110,
+  "data": [
+    {
+      "setCategory": "B",
+      "vertical_repeat": "24",
+      "Seamless": "Yes",
+      "Priority": "109",
+      "productUrl": "http://kustommadeactualtest.s3.amazonaws.com/57022bb8edf5ff28577188b9",
+      "filters": [
+        {
+          "group": "colors",
+          "values": [
+            "Pink/Coral"
+          ]
+        },
+        {
+          "group": "material",
+          "values": [
+            "Polyester"
+          ]
+        },
+        {
+          "group": "pattern",
+          "values": [
+            "Printed"
+          ]
+        }
+      ],
+      "images": [
+        "http://kustommadeactualtest.s3.amazonaws.com/57022bb8edf5ff28577188b9"
+      ],
+      "id": 9504,
+      "skuid": "911500189",
+      "material_filter": [
+        "Polyester"
+      ],
+      "optionId": 1,
+      "pattern_filter": [
+        "Printed"
+      ],
+      "productImage": {
+        "url": "http://kustommadeactualtest.s3.amazonaws.com/570237c6edf5ff301952f481",
+        "priority": 11,
+        "name": "911500189_7_product_image_zoom"
+      },
+      "width": "138",
+      "book": "Custom Furnish",
+      "horizontal_repeat": "20",
+      "optionName": "fabrics",
+      "brand": "Custom Furnish",
+      "productId": 7,
+      "sr.no": "639",
+      "description": "Man-made cost efficient fabric; light weight, strong, and resistant against wrinkles.",
+      "imagePriority": 10,
+      "price": 1,
+      "material": "Polyester Filement",
+      "productName": "EYELET CURTAIN",
+      "displayName": "Antwren 639-Shade 189",
+      "isActive": "True",
+      "color_filter": [
+        "Pink/Coral"
+      ],
+      "workingImage": "http://kustommadeactualtest.s3.amazonaws.com/570237c8edf5ff301952f482",
+      "name": " 911500189 Antwren 639-Shade 189 Pink/Coral Polyester Printed ",
+      "zoomImage": "http://kustommadeactualtest.s3.amazonaws.com/570237c9edf5ff301952f483",
+      "price_filter": [],
+      "displayImage": "http://kustommadeactualtest.s3.amazonaws.com/570237c8edf5ff301952f482",
+      "shade": "189",
+      "stock": 1000,
+      "gsm": "240",
+      "priority": 195
+    },
+    {
+      "setCategory": "B",
+      "vertical_repeat": "21.6",
+      "Seamless": "Yes",
+      "Priority": "101",
+      "productUrl": "http://kustommadeactualtest.s3.amazonaws.com/56fb93efedf5ff2639310af4",
+      "filters": [
+        {
+          "group": "colors",
+          "values": [
+            "Orange/Peach"
+          ]
+        },
+        {
+          "group": "material",
+          "values": [
+            "Polyester"
+          ]
+        },
+        {
+          "group": "pattern",
+          "values": [
+            "Printed"
+          ]
+        }
+      ],
+      "images": [
+        "http://kustommadeactualtest.s3.amazonaws.com/56fb93efedf5ff2639310af4"
+      ],
+      "id": 9587,
+      "skuid": "911500059",
+      "material_filter": [
+        "Polyester"
+      ],
+      "optionId": 1,
+      "pattern_filter": [
+        "Printed"
+      ],
+      "productImage": {
+        "url": "http://kustommadeactualtest.s3.amazonaws.com/56fb9b77edf5ff2a894dead8",
+        "priority": 11,
+        "name": "911500059_7_product_image_zoom"
+      },
+      "width": "138",
+      "book": "Brusheezy",
+      "horizontal_repeat": "23.3",
+      "optionName": "fabrics",
+      "brand": "Custom Furnish",
+      "productId": 7,
+      "sr.no": "59",
+      "description": "Man-made cost efficient fabric; light weight, strong, and resistant against wrinkles.",
+      "imagePriority": 11,
+      "price": 3500,
+      "material": "Polyester Filament",
+      "productName": "EYELET CURTAIN",
+      "displayName": "Elata 59",
+      "isActive": "True",
+      "color_filter": [
+        "Orange/Peach"
+      ],
+      "workingImage": "http://kustommadeactualtest.s3.amazonaws.com/56fb9b7aedf5ff2a894dead9",
+      "name": " 911500059 Elata 59 Orange/Peach Polyester Printed ",
+      "zoomImage": "http://kustommadeactualtest.s3.amazonaws.com/56fb9b7bedf5ff2a894deada",
+      "price_filter": [],
+      "displayImage": "http://kustommadeactualtest.s3.amazonaws.com/56fb9b7aedf5ff2a894dead9",
+      "stock": 1000,
+      "gsm": "240",
+      "priority": 202
+    },
+    {
+      "setCategory": "B",
+      "vertical_repeat": "12",
+      "Seamless": "Yes",
+      "Priority": "102",
+      "productUrl": "http://kustommadeactualtest.s3.amazonaws.com/56fb94f8edf5ff2639310b93",
+      "filters": [
+        {
+          "group": "colors",
+          "values": [
+            "Blue/Dark Blue"
+          ]
+        },
+        {
+          "group": "material",
+          "values": [
+            "Polyester"
+          ]
+        },
+        {
+          "group": "pattern",
+          "values": [
+            "Printed"
+          ]
+        }
+      ],
+      "images": [
+        "http://kustommadeactualtest.s3.amazonaws.com/56fb94f8edf5ff2639310b93"
+      ],
+      "id": 9506,
+      "skuid": "911500145",
+      "material_filter": [
+        "Polyester"
+      ],
+      "optionId": 1,
+      "pattern_filter": [
+        "Printed"
+      ],
+      "productImage": {
+        "url": "http://kustommadeactualtest.s3.amazonaws.com/56fb9caeedf5ff2a894deb77",
+        "priority": 11,
+        "name": "911500145_7_product_image_zoom"
+      },
+      "width": "138",
+      "book": "Vintage Bule",
+      "horizontal_repeat": "12",
+      "optionName": "fabrics",
+      "brand": "Vintage Bule",
+      "productId": 7,
+      "sr.no": "423",
+      "description": "Man-made cost efficient fabric; light weight, strong, and resistant against wrinkles.",
+      "imagePriority": 11,
+      "price": 35,
+      "material": "Polyester Filement",
+      "productName": "EYELET CURTAIN",
+      "displayName": "Mallow 423-Shade 145",
+      "isActive": "True",
+      "color_filter": [
+        "Blue/Dark Blue"
+      ],
+      "workingImage": "http://kustommadeactualtest.s3.amazonaws.com/56fb9cb1edf5ff2a894deb78",
+      "name": " 911500145 Mallow 423-Shade 145 Blue/Dark Blue Polyester Printed ",
+      "zoomImage": "http://kustommadeactualtest.s3.amazonaws.com/56fb9cb1edf5ff2a894deb79",
+      "price_filter": [],
+      "displayImage": "http://kustommadeactualtest.s3.amazonaws.com/56fb9cb1edf5ff2a894deb78",
+      "shade": "145",
+      "stock": 1000,
+      "gsm": "240",
+      "priority": 200
+    },
+    {
+      "setCategory": "B",
+      "vertical_repeat": "24",
+      "Seamless": "Yes",
+      "Priority": "109",
+      "productUrl": "http://kustommadeactualtest.s3.amazonaws.com/57022aabedf5ff285771881d",
+      "filters": [
+        {
+          "group": "colors",
+          "values": [
+            "White/Ivory/Cream/Silver"
+          ]
+        },
+        {
+          "group": "material",
+          "values": [
+            "Polyester"
+          ]
+        },
+        {
+          "group": "pattern",
+          "values": [
+            "Printed"
+          ]
+        }
+      ],
+      "images": [
+        "http://kustommadeactualtest.s3.amazonaws.com/57022aabedf5ff285771881d"
+      ],
+      "id": 8963,
+      "skuid": "911500137",
+      "material_filter": [
+        "Polyester"
+      ],
+      "optionId": 1,
+      "pattern_filter": [
+        "Printed"
+      ],
+      "productImage": {
+        "url": "http://kustommadeactualtest.s3.amazonaws.com/57023691edf5ff301952f3e2",
+        "priority": 11,
+        "name": "911500137_7_product_image_zoom"
+      },
+      "width": "138",
+      "book": "Custom Furnish",
+      "horizontal_repeat": "24",
+      "optionName": "fabrics",
+      "brand": "Custom Furnish",
+      "productId": 7,
+      "sr.no": "137",
+      "description": "Man-made cost efficient fabric; light weight, strong, and resistant against wrinkles.",
+      "imagePriority": 10,
+      "price": 350,
+      "material": "Polyester Filament",
+      "productName": "EYELET CURTAIN",
+      "displayName": "Antwren 137",
+      "isActive": "True",
+      "color_filter": [
+        "White/Ivory/Cream/Silver"
+      ],
+      "workingImage": "http://kustommadeactualtest.s3.amazonaws.com/57023694edf5ff301952f3e3",
+      "name": " 911500137 Antwren 137 White/Ivory/Cream/Silver Polyester Printed ",
+      "zoomImage": "http://kustommadeactualtest.s3.amazonaws.com/57023695edf5ff301952f3e4",
+      "price_filter": [],
+      "displayImage": "http://kustommadeactualtest.s3.amazonaws.com/57023694edf5ff301952f3e3",
+      "stock": 1000,
+      "gsm": "240",
+      "priority": 203
+    },
+    {
+      "setCategory": "B",
+      "vertical_repeat": "24",
+      "Seamless": "Yes",
+      "Priority": "109",
+      "productUrl": "http://kustommadeactualtest.s3.amazonaws.com/57022bb0edf5ff28577188b3",
+      "filters": [
+        {
+          "group": "colors",
+          "values": [
+            "Orange/Peach"
+          ]
+        },
+        {
+          "group": "material",
+          "values": [
+            "Polyester"
+          ]
+        },
+        {
+          "group": "pattern",
+          "values": [
+            "Printed"
+          ]
+        }
+      ],
+      "images": [
+        "http://kustommadeactualtest.s3.amazonaws.com/57022bb0edf5ff28577188b3"
+      ],
+      "id": 8964,
+      "skuid": "911500138",
+      "material_filter": [
+        "Polyester"
+      ],
+      "optionId": 1,
+      "pattern_filter": [
+        "Printed"
+      ],
+      "productImage": {
+        "url": "http://kustommadeactualtest.s3.amazonaws.com/570237bcedf5ff301952f47b",
+        "priority": 11,
+        "name": "911500138_7_product_image_zoom"
+      },
+      "width": "138",
+      "book": "Custom Furnish",
+      "horizontal_repeat": "24",
+      "optionName": "fabrics",
+      "brand": "Custom Furnish",
+      "productId": 7,
+      "sr.no": "138",
+      "description": "Man-made cost efficient fabric; light weight, strong, and resistant against wrinkles.",
+      "imagePriority": 10,
+      "price": 30,
+      "material": "Polyester Filament",
+      "productName": "EYELET CURTAIN",
+      "displayName": "Antwren 138",
+      "isActive": "True",
+      "color_filter": [
+        "Orange/Peach"
+      ],
+      "workingImage": "http://kustommadeactualtest.s3.amazonaws.com/570237bfedf5ff301952f47c",
+      "name": " 911500138 Antwren 138 Orange/Peach Polyester Printed ",
+      "zoomImage": "http://kustommadeactualtest.s3.amazonaws.com/570237bfedf5ff301952f47d",
+      "price_filter": [],
+      "displayImage": "http://kustommadeactualtest.s3.amazonaws.com/570237bfedf5ff301952f47c",
+      "stock": 1000,
+      "gsm": "240",
+      "priority": 205
+    },
+    {
+      "setCategory": "B",
+      "vertical_repeat": "12.9",
+      "Seamless": "Yes",
+      "Priority": "102",
+      "productUrl": "http://kustommadeactualtest.s3.amazonaws.com/56fb9434edf5ff2639310b24",
+      "filters": [
+        {
+          "group": "colors",
+          "values": [
+            "Blue/Dark Blue"
+          ]
+        },
+        {
+          "group": "material",
+          "values": [
+            "Polyester"
+          ]
+        },
+        {
+          "group": "pattern",
+          "values": [
+            "Printed"
+          ]
+        }
+      ],
+      "images": [
+        "http://kustommadeactualtest.s3.amazonaws.com/56fb9434edf5ff2639310b24"
+      ],
+      "id": 9539,
+      "skuid": "911500008",
+      "material_filter": [
+        "Polyester"
+      ],
+      "optionId": 1,
+      "pattern_filter": [
+        "Printed"
+      ],
+      "productImage": {
+        "url": "http://kustommadeactualtest.s3.amazonaws.com/56fb9bd6edf5ff2a894deb08",
+        "priority": 11,
+        "name": "911500008_7_product_image_zoom"
+      },
+      "width": "138",
+      "book": "Brusheezy",
+      "horizontal_repeat": "5",
+      "optionName": "fabrics",
+      "brand": "Custom Furnish",
+      "productId": 7,
+      "sr.no": "8",
+      "description": "Man-made cost efficient fabric; light weight, strong, and resistant against wrinkles.",
+      "imagePriority": 11,
+      "price": 330,
+      "material": "Polyester Filament",
+      "productName": "EYELET CURTAIN",
+      "displayName": "Elata 8",
+      "isActive": "True",
+      "color_filter": [
+        "Blue/Dark Blue"
+      ],
+      "workingImage": "http://kustommadeactualtest.s3.amazonaws.com/56fb9bdcedf5ff2a894deb09",
+      "name": " 911500008 Elata 8 Blue/Dark Blue Polyester Printed ",
+      "zoomImage": "http://kustommadeactualtest.s3.amazonaws.com/56fb9bddedf5ff2a894deb0a",
+      "price_filter": [],
+      "displayImage": "http://kustommadeactualtest.s3.amazonaws.com/56fb9bdcedf5ff2a894deb09",
+      "stock": 1000,
+      "gsm": "240",
+      "priority": 201
+    }]
+ }

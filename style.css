@@ -1,0 +1,71 @@
+#wrap{
+	width : 1000px;
+	background-color: #F8F8F8 ;
+	height :800px;
+	margin-left: 150px;
+}
+.left{
+	background-color: #FFCC99;
+	width : 490px;
+	height: 500px;
+	float :left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.right{
+	background-color: #FFFFCC;
+	width : 460px;
+	height: 500px;
+	float:left;
+	margin-left: 10px;
+	margin-top: 10px;
+	margin-right: 10px;
+
+}
+body {background:#F0F0F0 ;}
+/*  GRID OF FOUR  */
+.span_4_of_4 {
+	width: 24.25%;
+}
+.span_3_of_4 {
+	width: 24.75%;
+}
+.span_2_of_4 {
+	width: 24.5%;
+}
+.span_1_of_4 {
+	width: 24.25%;
+}
+
+/*  GO FULL WIDTH BELOW 480 PIXELS */
+@media only screen and (max-width: 480px) {
+	.col {  margin: 1% 0 1% 0%; }
+	.span_1_of_4, .span_2_of_4, .span_3_of_4, .span_4_of_4 { width: 100%; }
+}
+.display_group{
+
+}
+/*  SECTIONS  */
+.section {
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+/*  COLUMN SETUP  */
+.col {
+	display: block;
+	float:left;
+	margin: 1% 0 1% 1.0%;
+	background:#fff;
+}
+.col:first-child { margin-left: 0; }
+
+/*  GROUPING  */
+.group:before,
+.group:after { content:""; display:table; }
+.group:after { clear:both;}
+.group { zoom:1; /* For IE 6/7 */ }
+
+
